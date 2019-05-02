@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+  color: purple;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: purple;
+  font-family: fantasy;
+}
+
+.restaurants {
+  font-weight: bold;
+}
+
+.bars {
+  font-style: italic;
+}
+
+.fav {
+  font-size: 30px;
+}
